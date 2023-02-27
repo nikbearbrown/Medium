@@ -6,12 +6,13 @@ Files for Nik Bear Brown's Medium articles.  You can use these however you like 
   
   Nik Bear Brown Social
 
-Nik Bear Brown DALLE Digital Art https://labs.openai.com/sc/m1eQMAi6DFWI4VrKOqtkJkmj
-Nik Bear Brown YouTube https://www.youtube.com/@NikBearBrown 
-Nik Bear Brown Medium https://medium.com/@NikBearBrown 
-Nik Bear Brown LinkedIn https://www.linkedin.com/in/nikbearbrown 
-Nik Bear Brown GitHub https://github.com/NikBearBrown 
-Nik Bear Brown WWW https://www.nikbearbrown.com 
-Nik Bear Brown IG https://www.instagram.com/NikBearBrown 
-Nik Bear Brown Twitter https://twitter.com/NikBearBrown
+Nik Bear Brown DALLE Digital Art https://labs.openai.com/sc/m1eQMAi6DFWI4VrKOqtkJkmj     
+Nik Bear Brown YouTube https://www.youtube.com/@NikBearBrown     
+Nik Bear Brown Medium https://medium.com/@NikBearBrown    
+Nik Bear Brown LinkedIn https://www.linkedin.com/in/nikbearbrown     
+Nik Bear Brown GitHub https://github.com/NikBearBrown     
+Nik Bear Brown WWW https://www.nikbearbrown.com      
+Nik Bear Brown IG https://www.instagram.com/NikBearBrown      
+Nik Bear Brown Twitter https://twitter.com/NikBearBrown     
+
 
